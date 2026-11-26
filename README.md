@@ -1,5 +1,5 @@
 # rvf76-releases
-rvf76 releases - Windows VST3 builds
+rvf 76 releases - Windows VST3 builds
 
 ## Support the project
 
